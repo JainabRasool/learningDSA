@@ -1,7 +1,7 @@
 public class ConsicutiveOne
 {
     public static void main(String a[]) {
-        int[] num=new int[]{1,0,1,1};
+        int[] num=new int[]{1,1,1,1,0,1,1,0,0,0,1,0,1,1,1};
         System.out.println(findMaxConsecutiveOnes(num));
     }
         public static int findMaxConsecutiveOnes(int[] nums) {
