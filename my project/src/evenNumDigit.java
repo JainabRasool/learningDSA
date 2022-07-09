@@ -6,7 +6,7 @@ public class evenNumDigit {
     }
     public static int countDigit(int a[]){
 
-        int d=0,digit=0;
+        int digit=0;
 
 
 for(int val:a){
